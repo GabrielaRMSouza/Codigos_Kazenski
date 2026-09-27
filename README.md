@@ -1,2 +1,2 @@
 # Codigos_Kazenski
-É alguma coisa orase
+#Repositório para trabalhos do Kazenski
