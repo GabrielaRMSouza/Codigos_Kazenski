@@ -2,7 +2,7 @@
 # PACOTE DE EXERCÍCIOS: 30 FUNÇÕES EM PYTHON PARA TREINAMENTO
 # ==============================================================================
 # Este arquivo contém 30 funções simples divididas em categorias:
-# - Matemática e Lógica Básica
+# - Matemática e Lógica Básica 
 # - Manipulação de Listas e Laços de Repetição (For/While)
 # - Gamificação e RPG (Para aplicar a lógica em mecânicas de jogos)
 #
@@ -1272,3 +1272,6 @@ def impressão_personal_qtd_caract(qtd):
     print("-" * qtd)
     print(f"{'EDUARDO KAZENSKI':^qtd}")
     print("-" * qtd)
+
+#Códigos Para Estudar Para Prova
+ 
