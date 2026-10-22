@@ -1,3 +1,4 @@
+#Posivelmente uma espiral de estrela roxa
 
 import turtle
 
